@@ -1,0 +1,28 @@
+    ----------------------------------------------- TF-IDF/CV PACKAGES (STEP 1) -----------------------------------------------
+
+pandas
+numpy
+matplotlib
+seaborn
+
+langdetect
+cld3 --> from https://pypi.org/project/pycld3/ (this is the python version)
+
+nltk
+gensim
+
+sklearn
+
+wordcloud
+
+    ----------------------------------------------- CLUSTERING PACKAGES (STEP 2) -----------------------------------------------
+
+tensorflow --> (it is needed to compute kmeans with cosine similarity)
+
+hdbscan --> (it is the other clustering algorithm which is also a package)
+
+plotly
+
+sentence_transformers
+
+scipy
